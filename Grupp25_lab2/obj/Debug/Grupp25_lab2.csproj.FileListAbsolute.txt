@@ -1,0 +1,41 @@
+D:\Familj\Jesper\Programming\C#\Grupp25_Lab2\Grupp25_lab2\bin\Debug\Grupp25_lab2.exe.config
+D:\Familj\Jesper\Programming\C#\Grupp25_Lab2\Grupp25_lab2\bin\Debug\Grupp25_lab2.exe
+D:\Familj\Jesper\Programming\C#\Grupp25_Lab2\Grupp25_lab2\bin\Debug\Grupp25_lab2.pdb
+D:\Familj\Jesper\Programming\C#\Grupp25_Lab2\Grupp25_lab2\obj\Debug\Grupp25_lab2.AppForm.resources
+D:\Familj\Jesper\Programming\C#\Grupp25_Lab2\Grupp25_lab2\obj\Debug\Grupp25_lab2.Properties.Resources.resources
+D:\Familj\Jesper\Programming\C#\Grupp25_Lab2\Grupp25_lab2\obj\Debug\Grupp25_lab2.RedigeraBetyg.resources
+D:\Familj\Jesper\Programming\C#\Grupp25_Lab2\Grupp25_lab2\obj\Debug\Grupp25_lab2.RedigeraLärare.resources
+D:\Familj\Jesper\Programming\C#\Grupp25_Lab2\Grupp25_lab2\obj\Debug\Grupp25_lab2.RedigeraStudent.resources
+D:\Familj\Jesper\Programming\C#\Grupp25_Lab2\Grupp25_lab2\obj\Debug\Grupp25_lab2.RegistreraNyKurs.resources
+D:\Familj\Jesper\Programming\C#\Grupp25_Lab2\Grupp25_lab2\obj\Debug\Grupp25_lab2.RegistreraNyLärare.resources
+D:\Familj\Jesper\Programming\C#\Grupp25_Lab2\Grupp25_lab2\obj\Debug\Grupp25_lab2.registreraNyStudent.resources
+D:\Familj\Jesper\Programming\C#\Grupp25_Lab2\Grupp25_lab2\obj\Debug\Grupp25_lab2.RedigeraKurs.resources
+D:\Familj\Jesper\Programming\C#\Grupp25_Lab2\Grupp25_lab2\obj\Debug\Grupp25_lab2.VisaKurser.resources
+D:\Familj\Jesper\Programming\C#\Grupp25_Lab2\Grupp25_lab2\obj\Debug\Grupp25_lab2.VisaKursuppgifter.resources
+D:\Familj\Jesper\Programming\C#\Grupp25_Lab2\Grupp25_lab2\obj\Debug\Grupp25_lab2.VisaLärare.resources
+D:\Familj\Jesper\Programming\C#\Grupp25_Lab2\Grupp25_lab2\obj\Debug\Grupp25_lab2.VisaStudenter.resources
+D:\Familj\Jesper\Programming\C#\Grupp25_Lab2\Grupp25_lab2\obj\Debug\Grupp25_lab2.csproj.GenerateResource.cache
+D:\Familj\Jesper\Programming\C#\Grupp25_Lab2\Grupp25_lab2\obj\Debug\Grupp25_lab2.csproj.CoreCompileInputs.cache
+D:\Familj\Jesper\Programming\C#\Grupp25_Lab2\Grupp25_lab2\obj\Debug\Grupp25_lab2.exe
+D:\Familj\Jesper\Programming\C#\Grupp25_Lab2\Grupp25_lab2\obj\Debug\Grupp25_lab2.pdb
+C:\Users\sebsv\Downloads\Skola\laboration 2 grupp 25\Grupp25_lab2\bin\Debug\Grupp25_lab2.exe.config
+C:\Users\sebsv\Downloads\Skola\laboration 2 grupp 25\Grupp25_lab2\bin\Debug\Grupp25_lab2.exe
+C:\Users\sebsv\Downloads\Skola\laboration 2 grupp 25\Grupp25_lab2\bin\Debug\Grupp25_lab2.pdb
+C:\Users\sebsv\Downloads\Skola\laboration 2 grupp 25\Grupp25_lab2\obj\Debug\Grupp25_lab2.csproj.AssemblyReference.cache
+C:\Users\sebsv\Downloads\Skola\laboration 2 grupp 25\Grupp25_lab2\obj\Debug\Grupp25_lab2.AppForm.resources
+C:\Users\sebsv\Downloads\Skola\laboration 2 grupp 25\Grupp25_lab2\obj\Debug\Grupp25_lab2.Properties.Resources.resources
+C:\Users\sebsv\Downloads\Skola\laboration 2 grupp 25\Grupp25_lab2\obj\Debug\Grupp25_lab2.RedigeraBetyg.resources
+C:\Users\sebsv\Downloads\Skola\laboration 2 grupp 25\Grupp25_lab2\obj\Debug\Grupp25_lab2.RedigeraLärare.resources
+C:\Users\sebsv\Downloads\Skola\laboration 2 grupp 25\Grupp25_lab2\obj\Debug\Grupp25_lab2.RedigeraStudent.resources
+C:\Users\sebsv\Downloads\Skola\laboration 2 grupp 25\Grupp25_lab2\obj\Debug\Grupp25_lab2.RegistreraNyKurs.resources
+C:\Users\sebsv\Downloads\Skola\laboration 2 grupp 25\Grupp25_lab2\obj\Debug\Grupp25_lab2.RegistreraNyLärare.resources
+C:\Users\sebsv\Downloads\Skola\laboration 2 grupp 25\Grupp25_lab2\obj\Debug\Grupp25_lab2.registreraNyStudent.resources
+C:\Users\sebsv\Downloads\Skola\laboration 2 grupp 25\Grupp25_lab2\obj\Debug\Grupp25_lab2.RedigeraKurs.resources
+C:\Users\sebsv\Downloads\Skola\laboration 2 grupp 25\Grupp25_lab2\obj\Debug\Grupp25_lab2.VisaKurser.resources
+C:\Users\sebsv\Downloads\Skola\laboration 2 grupp 25\Grupp25_lab2\obj\Debug\Grupp25_lab2.VisaKursuppgifter.resources
+C:\Users\sebsv\Downloads\Skola\laboration 2 grupp 25\Grupp25_lab2\obj\Debug\Grupp25_lab2.VisaLärare.resources
+C:\Users\sebsv\Downloads\Skola\laboration 2 grupp 25\Grupp25_lab2\obj\Debug\Grupp25_lab2.VisaStudenter.resources
+C:\Users\sebsv\Downloads\Skola\laboration 2 grupp 25\Grupp25_lab2\obj\Debug\Grupp25_lab2.csproj.GenerateResource.cache
+C:\Users\sebsv\Downloads\Skola\laboration 2 grupp 25\Grupp25_lab2\obj\Debug\Grupp25_lab2.csproj.CoreCompileInputs.cache
+C:\Users\sebsv\Downloads\Skola\laboration 2 grupp 25\Grupp25_lab2\obj\Debug\Grupp25_lab2.exe
+C:\Users\sebsv\Downloads\Skola\laboration 2 grupp 25\Grupp25_lab2\obj\Debug\Grupp25_lab2.pdb
